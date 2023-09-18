@@ -22,7 +22,8 @@ body
 - `GET` `{{URL}}/api/v1/800` -  get record by area
 - `GET` `{{URL}}/api/v1/800/humid` -  get record by area and its climate
 - `GET` `{{URL}}/api/v1/gerDelta` -  get statistics as per specified in assingment
-  body
+
+body
 ```
 {
   "from_climate": "hot",
