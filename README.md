@@ -8,7 +8,7 @@ link- https://documenter.getpostman.com/view/22341103/2s9YC7UXfi
 - then run the server `npm start` or `npm run dev` for nodemon 
 
 # NOTE 
-- Before running any endpoints first create some documents of climates by `POST `{{URL}}/api/v1/` - create the record
+- Before running any endpoints first create some documents of climates by `POST` `{{URL}}/api/v1/` - create the record
  
 ```
   "climate":"humid",
