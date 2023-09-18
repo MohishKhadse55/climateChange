@@ -9,7 +9,7 @@ link- https://documenter.getpostman.com/view/22341103/2s9YC7UXfi
 
 # NOTE 
 - Before running any endpoints first create some documents of climates by `POST `{{URL}}/api/v1/` - create the record
-body 
+ 
 ```
   "climate":"humid",
   "area_code": 800,
